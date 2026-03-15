@@ -86,3 +86,17 @@ Run the Streamlit application:
 ```bash
 streamlit run streamlit_app.py
 ```
+## 📁 Project Structure
+ML-Salary-Prediction
+│
+├── eda.py
+├── train_model.py
+├── streamlit_app.py
+├── model.pkl
+├── salaries.csv
+├── requirements.txt
+│
+├── feature_importance.png
+├── salary_distribution.png
+├── streamlit_app1.png
+└── streamlit_app2.png
