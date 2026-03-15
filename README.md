@@ -66,4 +66,23 @@ Users can input job details and the model predicts the estimated salary.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ML-Salary-Prediction.git
+git clone https://github.com/anveshasrivastava41-ship-it/ML-Salary-Prediction.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd ML-Salary-Prediction
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the Streamlit application:
+
+```bash
+streamlit run streamlit_app.py
+```
